@@ -1,2 +1,5 @@
 # Machine-Learning--HR-Analytics-Predicting-Features-of-Importance
 Project’s objective is to understand the factors that lead a person to leave their current job, by applying predictive ML models.
+There is a high demand for data scientists across multiple different industries. Naturally, with this demand we see high potential for job changes and movement occurring. This dataset provides a glimpse of what is happening in the field of data science. 
+Our project’s objective is to understand the factors that lead a person to leave their current job, by applying predictive ML models.
+Ideally, we will prepare the dataset, transform as necessary to train at least two alternative models using scikit-learn, TensorFlow or a custom-developed model; with the intent to try a selection of different classifications , and clustering model types and compare the results for their specific application. In our Model Design section we will then describe the selected models, how we chose hyperparameters, and why particular machine learning models were selected.
